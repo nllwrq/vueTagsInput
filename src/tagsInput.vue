@@ -99,7 +99,7 @@
 <style scoped lang="scss">
     @import "reset.css";
     @import "ele-theme.css";
-    
+
     .tags{
         padding-bottom: 2px ;
         border:1px solid #f1faff;
