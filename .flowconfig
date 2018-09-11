@@ -1,0 +1,16 @@
+[ignore]
+.*/node_modules/.*
+.*/config/.*
+.*/build/.*
+.*/doc/.*
+.*/static/.*
+.*/.idea/.*
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+module.file_ext=.js
+[strict]
